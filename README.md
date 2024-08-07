@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omlohade
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning flutter and DSA
-- 📫 How to reach me omlohade2@gmial.com
+- 📫 How to reach me omlohade2@gmail.com
 - ⚡ Fun fact: I’ve successfully converted my friends to being night owls🦉
 
 <!---
