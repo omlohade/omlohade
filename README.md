@@ -17,13 +17,13 @@
 ```javascript
 const om = {
   education: "B.Tech @ VIT Pune | 9.15 CGPA",
-  passions: ["Full-Stack Development", "Generative AI", "DevOps],
+  passions: ["AI/ML", "Full-Stack Development", "Generative AI"],
   funFact: "I've successfully turned my friends into night owls! 🦉",
 };
 ```
 
 🔭 Passionate about **Software Development, Full-Stack Web Development, and Gen AI**  
-💻 Tech Stack: **MERN, Flask, TensorFlow, Machine Learning**    
+💻 Tech Stack: **MERN, Flask, TensorFlow, Machine Learning**  
 📫 Reach me at **omlohade2@gmail.com**
 
 ---
@@ -47,11 +47,11 @@ const om = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omlohade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omlohade&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omlohade&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,4 +63,3 @@ const om = {
 <img src="https://komarev.com/ghpvc/?username=omlohade&color=blueviolet&style=flat-square" alt="Profile views" />
 
 </div>
-
